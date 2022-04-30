@@ -1,4 +1,4 @@
-# savizronen-Tic--Tac-Toe-game
+# Tic--Tac-Toe-game
 
 
 ![image](https://user-images.githubusercontent.com/72870423/166105896-fe146e36-3651-47dd-8770-25cb1c480981.png)
